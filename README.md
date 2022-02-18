@@ -2,6 +2,10 @@
 
 ### Mutiplayer
 
+> ###### Summary:
+> *It's a multiplayer third person shooter game, which the objective is to eliminate as much as enemies as possible, the player scores points for each enemy killed.
+> The main objective of this project was to practice a Network connection using the Unreal's built in network feature(replication) and was implemented two kinds of AI, a rolling sphere that explodes when gets within a range from the player, and an advanced AI that simulates a Player Bot, able to aim and shoot the player.*
+
 #### These were the features used in this project:
 
 > - C++ and blueprints
